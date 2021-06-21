@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerGeral{
+    margin-top: 50px;
+}
+
+.containerSuperior{
+    margin: auto;
+    width: 600px;   
+    flex-direction: column;
+}
+
+.containerSuperior input{
+    width: 40px;
+}
+
+.supEsquerdo{
+    float: left;    
+}
+
+.supDireito{
+    text-align: right;
+}
+
+.containerInferior{
+    margin: auto;
+    width: 600px;
+}
+
+.containerInferior input{
+    width: 40px;
+}
+
+.infEsquerdo{
+    float: left;    
+}
+
+.infDireito{
+    text-align: right;
+}
+
+.containerPrincipal{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.resultado{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border: 1px solid black;
+    background-color: aliceblue; 
+    padding: 10px;
+}
+
+.container-btn{
+    text-align: center;
+}
+
+.btn-visualizar{
+    width: 100px;
+    padding: 10px;
+    
+}
+
+
