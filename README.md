@@ -5,5 +5,5 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascritp puro</li>
+  <li>Javascript puro</li>
 </ul>
